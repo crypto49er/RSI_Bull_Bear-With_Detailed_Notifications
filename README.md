@@ -1,4 +1,4 @@
-# RSI Bull Bear Strategy with detailed Pushbullet notification
+# RSI Bull Bear Strategy with detailed Pushbullet notifications
 While the simple concept of this strategy (if A, do C; if b, do D) is easy to understand, it is much harder to track exactly what the strategy is doing. Specifically, is it buying/selling because we are in a bear trend, or a bull trend???
 It certainly doesn't help things when this is the notification you get from Pushbullet (email provides the same very limited info), only telling you it is buying (long) or selling (short), providing no other information.
 
