@@ -15,7 +15,7 @@ This is so much more usable IMO. I can quickly identify the reasoning why the bo
 1. Download or Git Clone this repo.
 2. Move "RSI_BULL_BEAR.js" to Gekko/Strategies folder.
 3. Move "pushbullet.js" to Gekko/Plugins folder. This will break push bullet for other strategies, so make a backup of the original if you want.
-4. Move "config.js" to Gekko folder. Open the file, add your pushbullet key and email address you signed up for Pushbullet with. Save and close.
+4. Move "config.js" to Gekko folder. Open the file, add your pushbullet key and email address you signed up for Pushbullet with. Save and close. Note: The strategy now writes to the "config.js" file so if you want to use your own config file, you will need to copy the "TEMPORARY STORAGE" section.
 
 # Usage
 
