@@ -8,7 +8,13 @@ So I dive into how Gekko's Pushbullet plugin works and found that you can have i
 
 ![detail notifications](https://i.imgur.com/qFZV40p.png)
 
-This is so much more usable IMO. I can quickly identify the reasoning why the bot made the trade. So, like what you see? Here's how to install it.
+This is so much more usable IMO. I can quickly identify the reasoning why the bot made the trade. 
+
+![Check In](https://i.imgur.com/VnRBzps.png)
+
+One additional thing I added is the bot will send out a notification every 24 hours (based on 5 minute candles) letting you know the bot is still running properly. This feature is useful if Gekko crashes a lot or if the exchange you use have issues with their API server.
+
+So, like what you see? Here's how to install it.
 
 # Installation
 
@@ -22,6 +28,5 @@ This is so much more usable IMO. I can quickly identify the reasoning why the bo
 Inside Gekko folder, run:
 
 node gekko --config config.js
-
 
 
