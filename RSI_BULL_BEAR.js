@@ -104,6 +104,7 @@ var strat = {
 
 		if(countdownForCheckIn == 0){
 			this.advice('Bot Check in');
+			countdownForCheckIn = 288 // Reset counter
 		}
 			
 		// BEAR TREND
